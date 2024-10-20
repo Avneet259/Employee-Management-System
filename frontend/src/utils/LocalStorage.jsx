@@ -9,6 +9,7 @@ const admin = [
 const employees = [
   {
     "id": 1,
+    "firstname": "Aarav",
     "email": "employee1@example.com",
     "password": "123",
     "tasks": [
@@ -42,10 +43,17 @@ const employees = [
         "completedTask": false,
         "failedTask": true
       }
-    ]
+    ],
+    "taskCount": {
+      "active": 2,
+      "newTask": 2,
+      "completedTask": 1,
+      "failedTask": 1
+    }
   },
   {
     "id": 2,
+    "firstname": "Vivaan",
     "email": "employee2@example.com",
     "password": "123",
     "tasks": [
@@ -69,10 +77,17 @@ const employees = [
         "completedTask": false,
         "failedTask": false
       }
-    ]
+    ],
+    "taskCount": {
+      "active": 2,
+      "newTask": 1,
+      "completedTask": 0,
+      "failedTask": 0
+    }
   },
   {
     "id": 3,
+    "firstname": "Aditya",
     "email": "employee3@example.com",
     "password": "123",
     "tasks": [
@@ -106,10 +121,17 @@ const employees = [
         "completedTask": false,
         "failedTask": true
       }
-    ]
+    ],
+    "taskCount": {
+      "active": 2,
+      "newTask": 1,
+      "completedTask": 1,
+      "failedTask": 1
+    }
   },
   {
     "id": 4,
+    "firstname": "Vihaan",
     "email": "employee4@example.com",
     "password": "123",
     "tasks": [
@@ -133,10 +155,17 @@ const employees = [
         "completedTask": true,
         "failedTask": false
       }
-    ]
+    ],
+    "taskCount": {
+      "active": 1,
+      "newTask": 1,
+      "completedTask": 1,
+      "failedTask": 0
+    }
   },
   {
     "id": 5,
+    "firstname": "Arjun",
     "email": "employee5@example.com",
     "password": "123",
     "tasks": [
@@ -170,7 +199,13 @@ const employees = [
         "completedTask": false,
         "failedTask": true
       }
-    ]
+    ],
+    "taskCount": {
+      "active": 2,
+      "newTask": 1,
+      "completedTask": 1,
+      "failedTask": 1
+    }
   }
 ]
 
