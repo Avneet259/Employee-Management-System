@@ -27,7 +27,7 @@ const App = () => {
       if (employee) {
         setUser('employee')
         setLoggedInUserData(employee)
-        localStorage.setItem('loggedInUser', JSON.stringify({ role:'epmloyee',data:employee }))
+        localStorage.setItem('loggedInUser', JSON.stringify({ role:'employee',data:employee }))
       }
     } else {
       alert('Invalid Credentials')
