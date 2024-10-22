@@ -14,8 +14,8 @@ const employees = [
     "password": "123",
     "tasks": [
       {
-        "title": "Task 1",
-        "description": "Description for Task 1",
+        "title": "Development Task",
+        "description": "Task related to software development.",
         "date": "2024-10-01",
         "category": "Development",
         "active": true,
@@ -24,8 +24,8 @@ const employees = [
         "failedTask": false
       },
       {
-        "title": "Task 2",
-        "description": "Description for Task 2",
+        "title": "Design Task",
+        "description": "Creative design work.",
         "date": "2024-10-05",
         "category": "Design",
         "active": false,
@@ -34,8 +34,8 @@ const employees = [
         "failedTask": false
       },
       {
-        "title": "Task 3",
-        "description": "Description for Task 3",
+        "title": "Testing Task",
+        "description": "Quality assurance and testing.",
         "date": "2024-10-10",
         "category": "Testing",
         "active": true,
@@ -58,8 +58,8 @@ const employees = [
     "password": "123",
     "tasks": [
       {
-        "title": "Task 1",
-        "description": "Description for Task 1",
+        "title": "Development Task",
+        "description": "Task related to software development.",
         "date": "2024-10-02",
         "category": "Development",
         "active": true,
@@ -68,8 +68,8 @@ const employees = [
         "failedTask": false
       },
       {
-        "title": "Task 2",
-        "description": "Description for Task 2",
+        "title": "Design Task",
+        "description": "Creative design work.",
         "date": "2024-10-06",
         "category": "Design",
         "active": true,
@@ -92,8 +92,8 @@ const employees = [
     "password": "123",
     "tasks": [
       {
-        "title": "Task 1",
-        "description": "Description for Task 1",
+        "title": "Research Task",
+        "description": "Investigative research work.",
         "date": "2024-10-03",
         "category": "Research",
         "active": false,
@@ -102,8 +102,8 @@ const employees = [
         "failedTask": false
       },
       {
-        "title": "Task 2",
-        "description": "Description for Task 2",
+        "title": "Testing Task",
+        "description": "Quality assurance and testing.",
         "date": "2024-10-07",
         "category": "Testing",
         "active": true,
@@ -112,8 +112,8 @@ const employees = [
         "failedTask": false
       },
       {
-        "title": "Task 3",
-        "description": "Description for Task 3",
+        "title": "Development Task",
+        "description": "Task related to software development.",
         "date": "2024-10-11",
         "category": "Development",
         "active": true,
@@ -136,8 +136,8 @@ const employees = [
     "password": "123",
     "tasks": [
       {
-        "title": "Task 1",
-        "description": "Description for Task 1",
+        "title": "Management Task",
+        "description": "Task related to project management.",
         "date": "2024-10-04",
         "category": "Management",
         "active": true,
@@ -146,8 +146,8 @@ const employees = [
         "failedTask": false
       },
       {
-        "title": "Task 2",
-        "description": "Description for Task 2",
+        "title": "Development Task",
+        "description": "Task related to software development.",
         "date": "2024-10-08",
         "category": "Development",
         "active": false,
@@ -170,8 +170,8 @@ const employees = [
     "password": "123",
     "tasks": [
       {
-        "title": "Task 1",
-        "description": "Description for Task 1",
+        "title": "Support Task",
+        "description": "Customer support task.",
         "date": "2024-10-05",
         "category": "Support",
         "active": true,
@@ -180,8 +180,8 @@ const employees = [
         "failedTask": false
       },
       {
-        "title": "Task 2",
-        "description": "Description for Task 2",
+        "title": "Testing Task",
+        "description": "Quality assurance and testing.",
         "date": "2024-10-09",
         "category": "Testing",
         "active": true,
@@ -190,8 +190,8 @@ const employees = [
         "failedTask": false
       },
       {
-        "title": "Task 3",
-        "description": "Description for Task 3",
+        "title": "Research Task",
+        "description": "Investigative research work.",
         "date": "2024-10-12",
         "category": "Research",
         "active": false,
